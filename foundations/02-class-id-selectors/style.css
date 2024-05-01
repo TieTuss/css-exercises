@@ -1,0 +1,18 @@
+.oddnumber{
+    background-color: red;
+    font-family: verdana,"DejaVu Sans",sans-serif;
+}
+.oddnumber.bigger{
+    font-size: 24px;
+}
+
+#bluetext {
+    color :blue;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: lightgreen;
+    font-weight: bold;
+    size: 24px;
+}
